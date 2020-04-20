@@ -19,10 +19,10 @@ body {
 	padding: 10px;
 }
 
-.btn-dark {
+.danaibutton {
 	margin-left: 10px; 
-	width: 430px; 
 }
+
 .accepted {
 	font-family: 'Barlow', sans-serif;
 }
@@ -45,9 +45,10 @@ body {
 	font-weight: bold;
 }
 
-.btn {
-	margin-left: 20px; 
-}
+
+
+
+
 
 
 
