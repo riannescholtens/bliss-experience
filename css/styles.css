@@ -45,35 +45,64 @@ body {
 	font-weight: bold;
 }
 
-.flow {
-	font-weight: bold;
-	text-align: center;
+h1 {
+font-family: 'Barlow', sans-serif;
+}
+
+h2 {
+font-family: 'Barlow', sans-serif;
+}
+
+p {
+font-family: 'Barlow', sans-serif;
+
 	
 }
 
-.wireframes {
-	font-weight: bold;
+h3{
+font-family: 'Barlow', "sans-serif";
+
+}
+.picture {
+	margin-left: 11%; 
+}
+
+h6 {
+font-family: 'Barlow', "sans-serif";
+font-size: 14px;
+
+}
+
+.contact {
 	text-align: center;
+}
+
+.experience {
+	text-align: center
+}
+
+.flow {
+	text-align: center;
+	font-weight: bold;
+}
+
+.wireframes {
+	text-align: center;
+	font-weight: bold;
 }
 
 .designchoices {
-	font-weight: bold;
 	text-align: center;
-}
-
-.colours {
-	font-weight: bold; 
+	font-weight: bold;
 }
 
 .scenarios {
-	font-weight: bold;
 	text-align: center;
+	font-weight: bold;
 }
 
-
-
-
-
-
+.colours {
+	font-weight: bold;
+}
 
 
