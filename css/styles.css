@@ -45,7 +45,6 @@ body {
 	font-weight: bold;
 }
 
-
 h1 {
 font-family: 'Barlow', sans-serif;
 }
@@ -75,29 +74,6 @@ font-size: 14px;
 }
 
 .contact {
-
-.flow {
-	font-weight: bold;
-	text-align: center;
-	
-}
-
-.wireframes {
-	font-weight: bold;
-	text-align: center;
-}
-
-.designchoices {
-	font-weight: bold;
-	text-align: center;
-}
-
-.colours {
-	font-weight: bold; 
-}
-
-.scenarios {
-	font-weight: bold;
 	text-align: center;
 }
 
@@ -105,9 +81,28 @@ font-size: 14px;
 	text-align: center
 }
 
+.flow {
+	text-align: center;
+	font-weight: bold;
+}
 
+.wireframes {
+	text-align: center;
+	font-weight: bold;
+}
 
+.designchoices {
+	text-align: center;
+	font-weight: bold;
+}
 
+.scenarios {
+	text-align: center;
+	font-weight: bold;
+}
 
+.colours {
+	font-weight: bold;
+}
 
 
