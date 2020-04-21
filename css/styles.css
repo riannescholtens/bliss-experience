@@ -8,4 +8,48 @@ body {
 	background-color: #FFFFFF;
 	color: #000000;
 	font-family: 'Barlow', sans-serif;
+
 }
+.jumbotron {
+	color: #000000;
+}
+
+.input-group {
+	margin: 20px;
+	padding: 10px;
+}
+
+.danaibutton {
+	margin-left: 10px; 
+}
+
+.accepted {
+	font-family: 'Barlow', sans-serif;
+}
+
+
+.container4r {
+	margin: 20px; 
+	font-size: 20px; 
+}
+
+.container6r {
+	margin: 20px; 
+	font-size: 20px;
+	border: thick;
+	border-color: black; 
+}
+
+
+.information {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
