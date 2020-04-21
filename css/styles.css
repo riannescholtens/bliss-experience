@@ -8,4 +8,101 @@ body {
 	background-color: #FFFFFF;
 	color: #000000;
 	font-family: 'Barlow', sans-serif;
+
 }
+.jumbotron {
+	color: #000000;
+}
+
+.input-group {
+	margin: 20px;
+	padding: 10px;
+}
+
+.danaibutton {
+	margin-left: 10px; 
+}
+
+.accepted {
+	font-family: 'Barlow', sans-serif;
+}
+
+
+.container4r {
+	margin: 20px; 
+	font-size: 20px; 
+}
+
+.container6r {
+	margin: 20px; 
+	font-size: 20px;
+	border: thick;
+	border-color: black; 
+}
+
+
+.information {
+	font-weight: bold;
+}
+
+h1 {
+font-family: 'Barlow', sans-serif;
+}
+
+h2 {
+font-family: 'Barlow', sans-serif;
+}
+
+p {
+font-family: 'Barlow', sans-serif;
+
+	
+}
+
+h3{
+font-family: 'Barlow', "sans-serif";
+
+}
+.picture {
+	margin-left: 11%; 
+}
+
+h6 {
+font-family: 'Barlow', "sans-serif";
+font-size: 14px;
+
+}
+
+.contact {
+	text-align: center;
+}
+
+.experience {
+	text-align: center
+}
+
+.flow {
+	text-align: center;
+	font-weight: bold;
+}
+
+.wireframes {
+	text-align: center;
+	font-weight: bold;
+}
+
+.designchoices {
+	text-align: center;
+	font-weight: bold;
+}
+
+.scenarios {
+	text-align: center;
+	font-weight: bold;
+}
+
+.colours {
+	font-weight: bold;
+}
+
+
