@@ -45,6 +45,7 @@ body {
 	font-weight: bold;
 }
 
+
 h1 {
 font-family: 'Barlow', sans-serif;
 }
@@ -74,6 +75,29 @@ font-size: 14px;
 }
 
 .contact {
+
+.flow {
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.wireframes {
+	font-weight: bold;
+	text-align: center;
+}
+
+.designchoices {
+	font-weight: bold;
+	text-align: center;
+}
+
+.colours {
+	font-weight: bold; 
+}
+
+.scenarios {
+	font-weight: bold;
 	text-align: center;
 }
 
