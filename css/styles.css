@@ -50,7 +50,23 @@ body {
 }
 
 .flow {
-	font
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.wireframes {
+	font-weight: bold;
+	text-align: center;
+}
+
+.designchoices {
+	font-weight: bold;
+	text-align: center;
+}
+
+.colours {
+	font-weight: bold; 
 }
 
 
